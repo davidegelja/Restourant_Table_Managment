@@ -1,4 +1,4 @@
-# OperacionIstrazivanja-Projkat
+# Operaciona Istrazivanja-Projkat
 
 Za izradu projekta korišćeno je okruženje CodeBlocks i programski jezik C++. 
 Projekat se pokreće jednostavnom run and build komandom. 
